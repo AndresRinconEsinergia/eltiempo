@@ -1,0 +1,50 @@
+.logo{
+    display:flex;
+    justify-content: center;
+}
+body {
+    font-family: sans-serif;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+nav ul li{
+    flex-grow: 4;
+    justify-content: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black
+}
+.date{
+    color: gray;
+    font-style: italic;
+}
+
+
+.title-new a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    font-family: 'Patua One', cursive;
+    font-size: 1.5rem;
+} 
+
+.b-footer{
+    padding: 25px;
+    font-family: monospace;
+   display: flex;
+   justify-content: center;
+   flex-flow: wrap;
+}
+.b-footer a{
+    color: gray;
+    flex-grow: 4;
+}
+

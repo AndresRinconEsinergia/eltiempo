@@ -1,0 +1,19 @@
+.teaser-container{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid#0072ac;
+    border-bottom: 1px solid#0072ac;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.category-teaser{
+    color:#0072ac;
+}
+.category-featured{
+    text-decoration: none;
+    color:white;
+    padding: 7px;
+    font-weight: bold;
+}

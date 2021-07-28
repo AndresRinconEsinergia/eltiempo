@@ -1,0 +1,35 @@
+.flex-date-category{
+    display: flex;
+}
+
+.featured-container{
+    margin-top: 10px;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.pad{
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+
+.category-featured a{
+    text-decoration: none;
+    color:white;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.category-featured{
+    background-color:#0072ac;
+}
+.img-100 img{
+    width: 100% !important;
+}
+.width-50{
+    width:50%;
+}

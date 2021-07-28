@@ -1,0 +1,8 @@
+global-styling:
+  css:
+    theme:
+      css/global.css: {}
+      css/teaser.css: {}
+      css/featured.css: {}
+      css/recommended.css: {}
+      '//fonts.googleapis.com/css2?family=Patua+One&display=swap': {type: external}
